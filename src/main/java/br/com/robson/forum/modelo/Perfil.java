@@ -1,4 +1,4 @@
-package br.com.robsonforum.modelo;
+package br.com.robson.forum.modelo;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

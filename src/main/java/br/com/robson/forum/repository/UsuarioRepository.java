@@ -1,10 +1,10 @@
-package br.com.robsonforum.repository;
+package br.com.robson.forum.repository;
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import br.com.robsonforum.modelo.Usuario;
+import br.com.robson.forum.modelo.Usuario;
 
 public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
 	
